@@ -49,9 +49,7 @@ git clone https://github.com/bouleknadel/EXO2TP1_Interfacesgraphiques.git
 
  watch a demonstration video:
  
-
-https://github.com/user-attachments/assets/b07bd803-6269-4b70-90ba-266a7b387232
-
+https://github.com/user-attachments/assets/68805642-fdb7-49d8-b4e5-56e604151df4
 
 
 ## Contributors
